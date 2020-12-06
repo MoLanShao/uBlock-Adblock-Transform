@@ -1,0 +1,1 @@
+这是个可以使uBlock和Adblock规则相互转换的工具
