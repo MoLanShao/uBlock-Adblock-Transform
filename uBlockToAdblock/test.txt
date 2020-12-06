@@ -1,4 +1,4 @@
 !Title: uBlockToAdblock test
 
 !uBlock:qq.com##+js(json-prune, ad)
-qq.com#$#json-prune ad
+qq.com#$#json-prune 'ad'
